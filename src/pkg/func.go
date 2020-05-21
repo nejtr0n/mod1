@@ -1,4 +1,4 @@
-package https://github.com/nejtr0n/mod1
+package pkg
 
 import "fmt"
 
